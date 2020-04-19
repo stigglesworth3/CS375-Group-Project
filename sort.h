@@ -5,21 +5,21 @@
 
 class Sorter{
 	public:
-		int * array;
-		void insertionSort(int *);
-		void mergeSort(int *);
-		void quickSort(int *, bool);
+		int[] array;
+		void insertionSort(int[]);
+		void mergeSort(int[]);
+		void quickSort(int[], bool);
 };
 
-void Sorter::insertionSort(int * array){
+void Sorter::insertionSort(int[] array){
 	//TODO: do
 }
 
-void Sorter::mergeSort(int * array){
+void Sorter::mergeSort(int[] array){
 	//TODO: do
 }
 
-void Sorter::quickSort(int * array, bool random){
+void Sorter::quickSort(int[] array, bool random){
 	//TODO: do
 }
 
